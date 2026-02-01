@@ -1,100 +1,152 @@
-Privacy Policy – Wakely Alarm Clock
-Last updated: 17.01.2026
-1. Introduction
-Wakely Alarm Clock (“Wakely”, “we”, “our”, or “us”) respects your privacy.
- This Privacy Policy explains how our mobile application collects, uses, and protects information when you use Wakely Alarm Clock.
-Wakely is designed to work offline and does not require account creation.
+Wakely Alarm Clock Privacy Policy / 隐私政策
+Last updated / 更新日期: [01.02.2026]
 
-2. Information We Collect
-Wakely Alarm Clock does not collect personal information such as:
-name
+========================
+中文版本（简体中文）
+========================
 
+Wakely Alarm Clock 隐私政策
 
-email address
+本隐私政策适用于由 MadzillaApps 开发和运营的移动应用程序 Wakely Alarm Clock（以下简称“本应用”）。
 
+我们重视您的隐私，并致力于保护您的个人信息。本隐私政策说明在您使用本应用时信息如何被处理。
 
-phone number
+1. 我们收集的信息
 
+Wakely Alarm Clock 不会收集、存储、传输或共享任何用户的个人信息。
 
-precise location
+我们不收集：
+- 姓名
+- 电子邮箱地址
+- 电话号码
+- 位置信息
+- 设备标识符
+- 使用分析数据
+- 联系人或媒体文件
 
+本应用可完全离线运行，无需注册或登录。
 
-contacts
+2. 权限使用说明
 
+本应用可能仅为核心功能请求以下权限：
 
-messages
+闹钟与通知权限  
+用于在设定时间触发闹钟提醒。
 
+锁屏显示权限  
+仅在闹钟响起时显示提醒界面。
 
-photos or media files
+这些权限仅用于闹钟功能，不用于数据收集或跟踪。
 
+3. 信息使用方式
 
-a. Alarm & App Data (stored locally)
-The app stores the following information only on your device:
-alarm times
+由于我们不收集个人数据，因此不会处理、分析或共享用户信息。
 
+4. 第三方服务
 
-selected alarm themes
+本应用：
+- 不使用数据分析服务
+- 不包含广告SDK
+- 不使用跟踪工具
+- 不与第三方共享数据
 
+5. 数据存储
 
-repeat settings
+闹钟设置和偏好仅存储在您的设备本地。
 
+6. 儿童隐私
 
-vibration preferences
+本应用适合所有年龄段用户。  
+我们不会收集13岁以下儿童的信息。
 
+7. 用户权利
 
-This data is not transmitted to our servers.
+用户可以：
+- 随时卸载本应用
+- 在系统设置中管理或关闭权限
 
-3. Permissions Used
-Wakely may request the following permissions, strictly for core functionality:
-Alarm & Notifications – to trigger alarms reliably
+由于我们不收集数据，因此不存在访问、更正或删除个人数据的需求。
 
+8. 政策更新
 
-Audio – to play alarm sounds
+本隐私政策可能不时更新。更新内容将在本页面发布。
 
+9. 联系方式
 
-Vibration – if enabled by the user
+开发者：MadzillaApps  
+邮箱：madzillaapps@gmail.com
 
+========================
+ENGLISH VERSION
+========================
 
-These permissions are not used to collect personal data.
+Privacy Policy for Wakely Alarm Clock
 
-4. Advertising
-Wakely Alarm Clock may display ads in the free version.
-Ads are provided by third-party advertising services (such as Google AdMob), which may use:
-device identifiers
+This Privacy Policy applies to the mobile application Wakely Alarm Clock (the “App”), developed and operated by MadzillaApps.
 
+We value your privacy and are committed to protecting it. This Privacy Policy explains how information is handled when you use our App.
 
-non-personal, anonymized data
+1. Information We Collect
 
+Wakely Alarm Clock does not collect, store, transmit, or share any personal information.
 
-We do not control how third-party ad providers collect or use data.
- Please refer to their respective privacy policies for more information.
+We do not collect:
+- Names
+- Email addresses
+- Phone numbers
+- Location data
+- Device identifiers
+- Usage analytics
+- Contacts or media files
 
-5. Premium Version
-If you choose the Premium version:
-ads are removed
+The App works fully offline and does not require accounts or login.
 
+2. Permissions Used
 
-no additional personal data is collected
+The App may request permissions strictly for core functionality:
 
+Alarm & Notifications  
+Used to deliver alarms at scheduled times.
 
-payment is processed securely through Google Play Billing
+Show on Lock Screen  
+Used only to display alarm alerts when alarms ring.
 
+These permissions are used only for alarm functionality and not for data collection.
 
-Wakely does not have access to your payment details.
+3. How We Use Information
+
+Since we do not collect personal data, we do not process or share user information.
+
+4. Third-Party Services
+
+The App:
+- Does not use analytics services
+- Does not include advertising SDKs
+- Does not use tracking tools
+- Does not share data with third parties
+
+5. Data Storage
+
+Alarm settings and preferences are stored locally on your device only.
 
 6. Children’s Privacy
-Wakely Alarm Clock does not knowingly collect personal data from children.
- The app does not require user accounts and does not request sensitive information.
 
-7. Data Security
-We take reasonable steps to protect information stored on your device.
- Because Wakely does not transmit personal data, there is no centralized data storage vulnerable to breaches.
+The App is safe for all ages.  
+We do not knowingly collect data from children under 13.
+
+7. User Rights
+
+Users may:
+- Uninstall the App at any time
+- Revoke permissions in device settings
+
+Since no data is collected, there is no personal data to access or delete.
 
 8. Changes to This Policy
-This Privacy Policy may be updated from time to time.
- Any changes will be reflected on this page with an updated date.
 
-9. Contact Us
-If you have questions or feedback regarding this Privacy Policy, you can contact us at:
-📧 Email: madzillaapps@gmail.com
+We may update this Privacy Policy from time to time. Updates will be posted on this page.
 
+9. Contact
+
+Developer: MadzillaApps  
+Email: madzillaapps@gmail.com
