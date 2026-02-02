@@ -1,19 +1,19 @@
-Wakely Alarm Clock Privacy Policy / 隐私政策
+Madzilla Alarm Clock Privacy Policy / 隐私政策
 Last updated / 更新日期: [01.02.2026]
 
 ========================
 中文版本（简体中文）
 ========================
 
-Wakely Alarm Clock 隐私政策
+Madzilla Alarm Clock 隐私政策
 
-本隐私政策适用于由 Popa Gabriel Marian 开发和运营的移动应用程序 Wakely Alarm Clock（以下简称“本应用”）。
+本隐私政策适用于由 Popa Gabriel Marian 开发和运营的移动应用程序 Madzilla Alarm Clock（以下简称“本应用”）。
 
 我们重视您的隐私，并致力于保护您的个人信息。本隐私政策说明在您使用本应用时信息如何被处理。
 
 1. 我们收集的信息
 
-Wakely Alarm Clock 不会收集、存储、传输或共享任何用户的个人信息。
+Madzilla Alarm Clock 不会收集、存储、传输或共享任何用户的个人信息。
 
 我们不收集：
 - 姓名
@@ -80,15 +80,15 @@ Wakely Alarm Clock 不会收集、存储、传输或共享任何用户的个人�
 ENGLISH VERSION
 ========================
 
-Privacy Policy for Wakely Alarm Clock
+Privacy Policy for Madzilla Alarm Clock
 
-This Privacy Policy applies to the mobile application Wakely Alarm Clock (the “App”), developed and operated by Popa Gabriel Marian.
+This Privacy Policy applies to the mobile application Madzilla Alarm Clock (the “App”), developed and operated by Popa Gabriel Marian.
 
 We value your privacy and are committed to protecting it. This Privacy Policy explains how information is handled when you use our App.
 
 1. Information We Collect
 
-Wakely Alarm Clock does not collect, store, transmit, or share any personal information.
+Madzilla Alarm Clock does not collect, store, transmit, or share any personal information.
 
 We do not collect:
 - Names
